@@ -14,7 +14,7 @@ Le jeu s'adresse aux enfants de 6 à 10 ans. Le pseudo est admin et le mot de pa
 - Écran de fin : Affichage quand le joueur perd
 
 
-## Technologies utilisées
+## Technologies
 
 - HTML5
 - CSS3 
